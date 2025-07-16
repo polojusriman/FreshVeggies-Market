@@ -43,7 +43,7 @@ FreshVeggies is a visually rich, responsive e-commerce website that showcases a 
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/freshveggies.git
+git clone https://srimanpoloju.github.io/FreshVeggies-Market/
 
 # Navigate into the project directory
 cd freshveggies
